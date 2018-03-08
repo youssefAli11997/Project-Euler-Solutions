@@ -1,5 +1,3 @@
-package ProjectEuler;
-
 public class _92_SquareDigitChains {
 
     private static int countUpto(long limit){
